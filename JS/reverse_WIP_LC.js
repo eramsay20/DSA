@@ -1,12 +1,4 @@
-
-
-
-// var removeElement = function (nums, val) {
-//     return nums.filter(num => num !== val).length
-// };
-
-// let arr1 = [3, 2, 2, 3]
-// console.log(removeElement(arr1, 3));
+// https://leetcode.com/problems/reverse-integer/
 
 
 var reverse = function (x) {
