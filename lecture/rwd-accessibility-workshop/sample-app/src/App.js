@@ -13,7 +13,7 @@ function App() {
 				<h1 id="site-header">Welcome To My Super Responsive Site!</h1>
 			</header>
 			<main>
-				<section>
+				<section id='section-one'>
 					<h2 id="main-header">Section One Title</h2>
 					<div id="main-logo"></div>
 					<p>
@@ -27,7 +27,7 @@ function App() {
 						everyday carry post-ironic authentic vexillologist.
 					</p>
 				</section>
-				<section>
+				<section id='section-two'>
 					<h2 id="section-two-header">Section Two Title</h2>
 					<img src="./images/happy-kitty-1800x1200.jpg" alt='happy-kitty' id='happy-kitty-img'/>
 					<p>
