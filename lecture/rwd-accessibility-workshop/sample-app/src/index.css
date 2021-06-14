@@ -32,7 +32,19 @@ html {
 	}
 }
 
+#nav-links{
+	display: flex;
+	justify-content: space-around;
+	font-size: 1.5em;
+}
+
+#happy-kitty-img{
+	max-width: 100%;
+	background-size: contain;
+}
+
 #main-logo {
+	 padding-bottom: 56.25%;
 }
 
 #site-header {
